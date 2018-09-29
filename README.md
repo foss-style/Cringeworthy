@@ -8,15 +8,18 @@ examples of cringeworthy communication to find alternatives, solutions and recom
 
 ## Example 1: Checklists that are not interactive. AMAZON Re:INVENT 2018 (November 2018, Las Vegas)
 ...Notes from the Technical Writer... 
+[How many pages in a Worksheet](work-sheet.png)
 
-I was SO excited to hear that a friend of mine was going to this for work. I saw there was a checklist and was interested in the list. How do you handle this low functioning situation? I have seen a few things in my day, but this was elementary at best. In fact, I really felt as though my time was wasted. A Checklist presented for this event seemed like a great idea!!!
+I was SO excited to hear that a friend of mine was going to attend this for work. I saw there was a checklist and was interested in the list. How do you handle this low functioning situation? I have seen a few things in my day, but this was elementary at best. In fact, I really felt as though my time was wasted. A Checklist presented for this event seemed like a great idea!!!
 Execution, is another story.
 
 checklistimage
 
 Am I going to print that checklist out? with... a Printer???? Should I use a dot matrix......
+or is the intention to print these out for attendees. Are we just lucky to have these available online to look at ...from a distance or something?
 
-Now, I need to find a writing utensil... nooooo (that actually works!!!).
+Either way - 
+Now, I need to find a writing utensil... nooooo (that actually works!!!). 
 
 "Hello Darkness my old friend..."
 
@@ -50,8 +53,8 @@ I can't do anything with this... Really. What am I supposed to do with this. Put
 image dayrunner
 
 ## Horrible
-People in your organization who are in charge of marketing are somewhat... incompetent in my opinion.
-I mean... marketing is the gig, right - Reassign the person who made the checklist. 
+People in your organization who are in charge of marketing could use a "refresher", in my opinion.
+I mean... marketing is the gig, right - Reassign the person who decided to make the checklist flat or not interactive. 
 
 Truly disappointed, Amazon. Truly. I was looking forward to a checklist. 
 I wonder if someone said - wouldn't it be better if it was interactive? If there is someone like that in your organization, give that person a raise. You can afford it, as soon as you let the other one go.
