@@ -32,7 +32,7 @@ Is the PDF, in fact, interactive for Windows users? I'm not sure. Now, I questio
 Thanks. Thanks... a lot.
 
 ## Another Suggestion
-Create an app to a checklist to redeem yourselves. Offer the link.
+Create an app with a checklist and a getText function for notes to redeem yourselves. Offer the link.
 
 `Note: The purpose of this github is to offer content and information related to the FOSS community and culture. I mean, honestly, if I test this link and it works in Windows - that's an entirely other issue.`
 
