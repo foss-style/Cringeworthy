@@ -13,6 +13,7 @@ I was SO excited to hear that a friend of mine was going to this for work. I saw
 Execution, is another story.
 
 
+
 Am I going to print that checklist out? with... a Printer???? Should I use a dot matrix......
 
 Now, I need to find a writing utensil... nooooo (that actually works!!!).
