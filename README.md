@@ -8,7 +8,7 @@ examples of cringeworthy communication to find alternatives, solutions and recom
 
 ## Example 1: Checklists that are not interactive. AMAZON Re:INVENT 2018 (November 2018, Las Vegas)
 ...Notes from the Technical Writer... 
-[How many pages in a Worksheet](work-sheet.png)
+![How many pages in a Worksheet](/work-sheet.png)
 
 I was SO excited to hear that a friend of mine was going to attend this for work. I saw there was a checklist and was interested in the list. How do you handle this low functioning situation? I have seen a few things in my day, but this was elementary at best. In fact, I really felt as though my time was wasted. A Checklist presented for this event seemed like a great idea!!!
 Execution, is another story.
