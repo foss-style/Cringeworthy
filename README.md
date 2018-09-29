@@ -14,9 +14,10 @@ I was SO excited to hear that a friend of mine was going to attend this for work
 Execution, is another story.
 
 checklistimage
+![Checklist-AWS](/events.png)
 
 Am I going to print that checklist out? with... a Printer???? Should I use a dot matrix......
-or is the intention to print these out for attendees. Are we just lucky to have these available online to look at ...from a distance or something?
+or is the intention to print these out for attendees. Are we just lucky to have these available online to look at ...from a distance or something? Why does it state - Booked my hotel. Yea. This is the checklist intended for before your visit. Well. I'm sorry, folks. Maybe versions 5 or 6 will be more relevant.
 
 Either way - 
 Now, I need to find a writing utensil... nooooo (that actually works!!!). 
@@ -49,8 +50,6 @@ The checklist links to a Presentation. Not interactive but when you click the ch
 
 ## Terrible	
 I can't do anything with this... Really. What am I supposed to do with this. Put it in my DayRunner?!!
-
-image dayrunner
 
 ## Horrible
 People in your organization who are in charge of marketing could use a "refresher", in my opinion.
