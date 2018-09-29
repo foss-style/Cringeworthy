@@ -34,19 +34,19 @@ Thanks. Thanks... a lot.
 ## Another Suggestion
 Create an app with a checklist and a getText function for notes to redeem yourselves. Offer the link.
 
-`Note: The purpose of this github is to offer content and information related to the FOSS community and culture. I mean, honestly, if I test this link and it works in Windows - that's an entirely other issue.`
+`Note: The purpose of this github is to offer content and information related to the FOSS community and culture.
 
 ## Bad		
-The checklist is on the web page and is not interactive. https://reinvent.awsevents.com/info/preparing-for-reinvent/?trk=www.google.com
+The checklist is on the web page and is not interactive. https://reinvent.awsevents.com/info/preparing-for-reinvent/?trk=www.google.com The PDF is not interactive on Windows or Linux (confirmed).
 
 ## Worse		
-The checklist links to a Presentation. Not interactive but when you click the checklist, it opens a website. That is not intuitive at all.
+The checklist links to a Presentation. Not interactive but when you click the checklist, it opens a PDF. That is not intuitive at all.
 
 ## Terrible	
-I can't do anything with this... Really.
+I can't do anything with this... Really. What am I supposed to do with this. Put it in my DayRunner
 
 ## Horrible
-The people in your organization who are in charge of marketing are somewhat... incompetent in my opinion.
+People in your organization who are in charge of marketing are somewhat... incompetent in my opinion.
 I mean... marketing is the gig, right - Reassign the person who made the checklist. 
 
 Truly disappointed, Amazon. Truly. I was looking forward to a checklist. 
