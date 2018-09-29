@@ -50,6 +50,6 @@ The people in your organization who are in charge of marketing are somewhat... i
 I mean... marketing is the gig, right - Reassign the person who made the checklist. 
 
 Truly disappointed, Amazon. Truly. I was looking forward to a checklist. 
-I wonder if someone said - wouldn't it be better if it was interactive?
+I wonder if someone said - wouldn't it be better if it was interactive? If there is someone like that in your organization, give that person a raise. You can afford it, as soon as you let the other one go.
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
