@@ -50,3 +50,5 @@ I mean... marketing is the gig, right - Reassign the person who made the checkli
 
 Truly disappointed, Amazon. Truly. I was looking forward to a checklist. 
 I wonder if someone said - wouldn't it be better if it was interactive?
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
