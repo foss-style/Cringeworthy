@@ -1,4 +1,5 @@
 <body bgcolor="black">
+  
 # Cringeworthy 
 examples of cringeworthy communication to find alternatives, solutions and recommendations
 
@@ -18,7 +19,7 @@ Now, I need to find a writing utensil... nooooo (that actually works!!!).
 
 "Hello Darkness my old friend..."
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=u9Dg-g7t2l4)
+[![Alt text](https://aztechwriter.com/picture.php?/1/category/2)](https://www.youtube.com/watch?v=u9Dg-g7t2l4)
 
 If I want to resize an image do I need to do some wax paste-up?
 Come on.
