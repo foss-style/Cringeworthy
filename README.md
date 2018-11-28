@@ -44,7 +44,7 @@ Create an app with a checklist and a getText function for notes to redeem yourse
 Note: The purpose of this github is to offer content and information related to the FOSS community and culture.
 
 ## Bad		
-The checklist is on the web page and is not interactive. https://reinvent.awsevents.com/info/preparing-for-reinvent/?trk=www.google.com The PDF is not interactive on Windows or Linux (confirmed).
+The checklist is on the web page and is not interactive. https://reinvent.awsevents.com/info/preparing-for-reinvent/ The PDF is not interactive on Windows or Linux (confirmed).
 
 ## Worse		
 The checklist links to a Presentation. Not interactive but when you click the checklist, it opens a PDF. That is not intuitive at all.
